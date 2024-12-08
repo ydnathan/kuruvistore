@@ -1,3 +1,75 @@
+# 📱 Kuruvistore Photo Printing Service - Privacy Policy
+
+> Your privacy matters to us. This document outlines how we handle your photos and personal information.
+
+## 📋 Table of Contents
+- [Overview](#overview)
+- [Data Collection](#data-collection)
+- [Usage & Storage](#usage--storage)
+- [Security](#security)
+- [Your Rights](#your-rights)
+- [Contact](#contact)
+
+## Overview
+Kuruvistore provides photo printing services through WhatsApp. We prioritize the security and privacy of your photos and personal information.
+
+## Data Collection / We collect
+- WhatsApp contact information
+- Photos sent for printing
+- Delivery addresses
+- Payment details
+- Order communication history
+
+## We never
+- Sell your data
+- Use photos for marketing
+- Share information with unauthorized parties
+- Store photos longer than necessary
+
+## Usage & Storage / Photo Handling
+- Photos are stored only during order processing
+- Automatic deletion after 365 days of order completion
+- Staff access limited to order fulfillment needs
+
+## Usage & Storage / Data Usage
+- Order processing and fulfillment
+- Customer support
+- Service improvements
+- Legal compliance requirements
+
+## Security / Protection Measures
+- End-to-end encryption
+- Secure server infrastructure
+- Regular security audits
+- Strict access controls
+
+## Third-Party Partners
+- Vetted printing services
+- Secure payment processors
+- Professional delivery services
+- Compliant cloud storage
+
+## You can
+- Request data access
+- Delete your information
+- Opt out of communications
+- Review data usage
+- Withdraw consent
+
+## Age Restriction
+- Service not intended for users under 13
+- No intentional collection of children's data
+
+---
+
+### 📝 Policy Updates
+We'll notify users of any significant changes via WhatsApp or email.
+
+### ✍️ Consent
+Using our service indicates agreement with these privacy terms.
+
+---
+
 # KuruviStore Data Deletion Instructions
 
 ## Overview
@@ -28,3 +100,5 @@ The deletion process includes:
 ## Contact
 
 For support or questions about data deletion, message us on WhatsApp.
+
+**Last Updated:** [09-12-2024]
