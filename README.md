@@ -1,14 +1,6 @@
-# 📱 Kuruvistore Photo Printing Service - Privacy Policy
+# Kuruvistore Photo Printing Service - Privacy Policy
 
 > Your privacy matters to us. This document outlines how we handle your photos and personal information.
-
-## 📋 Table of Contents
-- [Overview](#overview)
-- [Data Collection](#data-collection)
-- [Usage & Storage](#usage--storage)
-- [Security](#security)
-- [Your Rights](#your-rights)
-- [Contact](#contact)
 
 ## Overview
 Kuruvistore provides photo printing services through WhatsApp. We prioritize the security and privacy of your photos and personal information.
@@ -60,16 +52,6 @@ Kuruvistore provides photo printing services through WhatsApp. We prioritize the
 - Service not intended for users under 13
 - No intentional collection of children's data
 
----
-
-### 📝 Policy Updates
-We'll notify users of any significant changes via WhatsApp or email.
-
-### ✍️ Consent
-Using our service indicates agreement with these privacy terms.
-
----
-
 # KuruviStore Data Deletion Instructions
 
 ## Overview
@@ -101,4 +83,13 @@ The deletion process includes:
 
 For support or questions about data deletion, message us on WhatsApp.
 
+---
+
+### Policy Updates
+We'll notify users of any significant changes via WhatsApp or email.
+
+### Consent
+Using our service indicates agreement with these privacy terms.
+
+---
 **Last Updated:** [09-12-2024]
